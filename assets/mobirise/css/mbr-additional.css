@@ -1753,10 +1753,10 @@ nav.opened .hamburger span {
 @uname__12: "../../app/themes/mobirise4/components/header2/../_images/background4.jpg";
 @uname__13: true;
 @uname__14: #073b4c;
-@bg-value: "../../app/themes/mobirise4/components/header2/../_images/background4.jpg";
-@bg-type: "image";
+@bg-value: #073b4c;
+@bg-type: "color";
 @bg-color-value: #073b4c;
-@bg-parallax: true;
+@bg-parallax: false;
 @overlay: true;
 @overlayColor: #232323;
 @overlayOpacity: 0.3;
